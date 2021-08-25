@@ -27,7 +27,6 @@ const Checkout = (props) => {
     </div>
     <button type="button" onClick={props.onCancel}>Cancel</button>
     <button>Confirm</button>
-    <button>Confirm</button>
   </form>
 };
 
